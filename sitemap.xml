@@ -128,6 +128,15 @@
   </url>
   
   <url>
+    <loc>https://ysur007.github.io/personal/bb/index.html</loc>
+    
+    <lastmod>2023-03-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ysur007.github.io/personal/about/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
@@ -137,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://ysur007.github.io/personal/bb/index.html</loc>
+    <loc>https://ysur007.github.io/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -156,15 +165,6 @@
   
   <url>
     <loc>https://ysur007.github.io/social/link/index.html</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ysur007.github.io/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
