@@ -2,7 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ysur007.github.io/posts/js5.html</loc>
+    <loc>https://ysur007.github.io/posts/jsb4.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ysur007.github.io/posts/jsb3.html</loc>
+    
+    <lastmod>2023-03-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ysur007.github.io/posts/jsb2.html</loc>
+    
+    <lastmod>2023-03-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ysur007.github.io/posts/jsb1.html</loc>
+    
+    <lastmod>2023-03-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ysur007.github.io/posts/jsa5.html</loc>
     
     <lastmod>2023-03-17</lastmod>
     
@@ -11,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://ysur007.github.io/posts/js4.html</loc>
+    <loc>https://ysur007.github.io/posts/jsa4.html</loc>
     
     <lastmod>2023-03-16</lastmod>
     
@@ -20,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://ysur007.github.io/posts/js3.html</loc>
+    <loc>https://ysur007.github.io/posts/jsa3.html</loc>
     
     <lastmod>2023-03-15</lastmod>
     
@@ -29,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://ysur007.github.io/posts/js2.html</loc>
+    <loc>https://ysur007.github.io/posts/jsa2.html</loc>
     
     <lastmod>2023-03-14</lastmod>
     
@@ -38,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://ysur007.github.io/posts/js1.html</loc>
+    <loc>https://ysur007.github.io/posts/jsa1.html</loc>
     
     <lastmod>2023-03-13</lastmod>
     
@@ -57,6 +93,15 @@
   
   <url>
     <loc>https://ysur007.github.io/categories/index.html</loc>
+    
+    <lastmod>2023-03-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ysur007.github.io/box/nav/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -92,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://ysur007.github.io/box/nav/index.html</loc>
+    <loc>https://ysur007.github.io/life/games/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -102,15 +147,6 @@
   
   <url>
     <loc>https://ysur007.github.io/life/music/index.html</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ysur007.github.io/life/games/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -146,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://ysur007.github.io/site/census/index.html</loc>
+    <loc>https://ysur007.github.io/personal/bb/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -155,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://ysur007.github.io/personal/bb/index.html</loc>
+    <loc>https://ysur007.github.io/site/census/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -211,7 +247,7 @@
 
   <url>
     <loc>https://ysur007.github.io/</loc>
-    <lastmod>2023-03-17</lastmod>
+    <lastmod>2023-03-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -219,28 +255,35 @@
   
   <url>
     <loc>https://ysur007.github.io/tags/JavaScript-%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2023-03-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ysur007.github.io/tags/hello-world/</loc>
-    <lastmod>2023-03-17</lastmod>
+    <lastmod>2023-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ysur007.github.io/tags/Markdown/</loc>
-    <lastmod>2023-03-17</lastmod>
+    <lastmod>2023-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ysur007.github.io/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2023-03-17</lastmod>
+    <lastmod>2023-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ysur007.github.io/tags/JavaScript-%E8%BF%9B%E9%98%B6/</loc>
+    <lastmod>2023-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ysur007.github.io/tags/hello-world/</loc>
+    <lastmod>2023-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -249,14 +292,21 @@
   
   <url>
     <loc>https://ysur007.github.io/categories/JavaScript-%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2023-03-17</lastmod>
+    <lastmod>2023-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ysur007.github.io/categories/%E6%BC%94%E7%A4%BA/</loc>
-    <lastmod>2023-03-17</lastmod>
+    <lastmod>2023-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ysur007.github.io/categories/JavaScript-%E8%BF%9B%E9%98%B6/</loc>
+    <lastmod>2023-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
