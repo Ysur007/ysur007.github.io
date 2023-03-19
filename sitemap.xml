@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yzh.lsp.st/posts/apis2.html</loc>
+    
+    <lastmod>2023-03-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://yzh.lsp.st/posts/apis1.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -119,6 +128,15 @@
   </url>
   
   <url>
+    <loc>https://yzh.lsp.st/tags/index.html</loc>
+    
+    <lastmod>2023-03-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://yzh.lsp.st/box/animation/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
@@ -146,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://yzh.lsp.st/tags/index.html</loc>
+    <loc>https://yzh.lsp.st/life/movies/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -156,24 +174,6 @@
   
   <url>
     <loc>https://yzh.lsp.st/life/music/index.html</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://yzh.lsp.st/life/games/index.html</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://yzh.lsp.st/life/movies/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -200,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://yzh.lsp.st/social/fcircle/index.html</loc>
+    <loc>https://yzh.lsp.st/personal/love/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -209,7 +209,7 @@
   </url>
   
   <url>
-    <loc>https://yzh.lsp.st/personal/love/index.html</loc>
+    <loc>https://yzh.lsp.st/life/games/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -227,7 +227,7 @@
   </url>
   
   <url>
-    <loc>https://yzh.lsp.st/social/link/index.html</loc>
+    <loc>https://yzh.lsp.st/site/time/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -236,7 +236,16 @@
   </url>
   
   <url>
-    <loc>https://yzh.lsp.st/site/time/index.html</loc>
+    <loc>https://yzh.lsp.st/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yzh.lsp.st/social/link/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
