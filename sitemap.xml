@@ -173,25 +173,7 @@
   </url>
   
   <url>
-    <loc>https://yzh.lsp.st/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://yzh.lsp.st/life/music/index.html</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://yzh.lsp.st/personal/about/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -209,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://yzh.lsp.st/personal/bb/index.html</loc>
+    <loc>https://yzh.lsp.st/site/census/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -218,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://yzh.lsp.st/site/census/index.html</loc>
+    <loc>https://yzh.lsp.st/personal/bb/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -246,6 +228,24 @@
   
   <url>
     <loc>https://yzh.lsp.st/social/link/index.html</loc>
+    
+    <lastmod>2023-03-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yzh.lsp.st/life/movies/index.html</loc>
+    
+    <lastmod>2023-03-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yzh.lsp.st/personal/about/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
