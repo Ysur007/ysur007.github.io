@@ -9595,7 +9595,6 @@ hr:before {
   background: #212121;
 }
 
-/* 音乐 */
 #page:has(#anMusic-page) {
   border: 0;
   box-shadow: none !important;

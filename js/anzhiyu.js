@@ -1,7 +1,7 @@
 var anzhiyu = {
     // 音乐节目切换背景
     changeMusicBg: function (isChangeBg = true) {
-        if (window.location.pathname != "/music/") {
+        if (window.location.pathname != "/life/music/") {
             return;
         }
         const anMusicBg = document.getElementById("an_music_bg")
