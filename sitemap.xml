@@ -182,15 +182,6 @@
   </url>
   
   <url>
-    <loc>https://yzh.lsp.st/box/gallery/index.html</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://yzh.lsp.st/tags/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
@@ -201,15 +192,6 @@
   
   <url>
     <loc>https://yzh.lsp.st/box/animation/index.html</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://yzh.lsp.st/life/games/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -236,7 +218,16 @@
   </url>
   
   <url>
-    <loc>https://yzh.lsp.st/personal/love/index.html</loc>
+    <loc>https://yzh.lsp.st/box/gallery/index.html</loc>
+    
+    <lastmod>2023-03-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yzh.lsp.st/life/games/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -263,16 +254,7 @@
   </url>
   
   <url>
-    <loc>https://yzh.lsp.st/site/census/index.html</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://yzh.lsp.st/site/time/index.html</loc>
+    <loc>https://yzh.lsp.st/personal/love/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -291,6 +273,24 @@
   
   <url>
     <loc>https://yzh.lsp.st/social/link/index.html</loc>
+    
+    <lastmod>2023-03-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yzh.lsp.st/site/time/index.html</loc>
+    
+    <lastmod>2023-03-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yzh.lsp.st/site/census/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -333,13 +333,6 @@
   </url>
   
   <url>
-    <loc>https://yzh.lsp.st/tags/Web-APIs/</loc>
-    <lastmod>2023-04-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://yzh.lsp.st/tags/Markdown/</loc>
     <lastmod>2023-04-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -348,6 +341,13 @@
   
   <url>
     <loc>https://yzh.lsp.st/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
+    <lastmod>2023-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yzh.lsp.st/tags/Web-APIs/</loc>
     <lastmod>2023-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -384,14 +384,14 @@
   </url>
   
   <url>
-    <loc>https://yzh.lsp.st/categories/Web-APIs/</loc>
+    <loc>https://yzh.lsp.st/categories/%E6%BC%94%E7%A4%BA/</loc>
     <lastmod>2023-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://yzh.lsp.st/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <loc>https://yzh.lsp.st/categories/Web-APIs/</loc>
     <lastmod>2023-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
